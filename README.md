@@ -1,6 +1,6 @@
 ### 需求与计划
 
-最近在处理NetCDF(.nc)数据，发现多年数据在arcmap处理很麻烦，再者虽然有build，但我对图形模式操作并不感冒，而且还有其他需求需要处理。
+最近在处理NetCDF(.nc)数据，发现多年数据在arcmap处理很麻烦，再者虽然有builder，但我对图形模式操作并不感冒，而且还有其他需求需要处理。
 
 故选择使用module-->*`arcpy`*实现批量操作。
 
@@ -30,7 +30,7 @@
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Rpower666/pic@main/20250509%2F1419_20250509141905928.png" style="zoom:50%;" /><br /><strong>转为TIFF</strong>
 
-最后进行运行，运行时间取决于文件数量，由于本人未熟悉synr，所以时间可能还是需要一些，等待跑完即可。
+最后进行运行，运行时间取决于文件数量，由于本人未熟悉async，所以时间可能还是需要一些，等待跑完即可。
 
 在Evaporation文件生成文件目录如下：
 
