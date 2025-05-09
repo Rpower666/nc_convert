@@ -29,6 +29,7 @@
 3. 在转为tiff格式的时候，请注意`pixel_type`，具体看`Properties` -->`Source`。投影看个人需要，可以是空间参考为地理坐标如`WGS 1984`这里的`4326`也就是WGS1984，也可以是投影坐标如`WGS1984 UTM Zone 39N`。
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Rpower666/pic@main/20250509%2F1419_20250509141905928.png" style="zoom:50%;" /><br /><strong>转为TIFF</strong>
+
 最后进行运行，运行时间取决于文件数量，由于本人未熟悉synr，所以时间可能还是需要一些，等待跑完即可。
 
 在Evaporation文件生成文件目录如下：
@@ -64,6 +65,3 @@ Evaporation
 
 
 如果你有什么好的意见或问题欢迎提交issue。
-=======
-# nc_convert
->>>>>>> b8ab7460355436d0b224ba923586ab950c8d2512
